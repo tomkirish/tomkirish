@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a project for Azure AD PIM.
-🌱 I’m currently learning how to package a new project.
+- 🔭 I’m currently working on a project for Azure AD PIM.
+- 🌱 I’m currently learning how to package a new project.
 
 <!--
 **tomkirish/tomkirish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
